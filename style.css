@@ -1,0 +1,35 @@
+#increment-btn {
+    background-color: rgba(162, 124, 194, 0.596);
+    padding: 10px 25px 10px 25px;
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 4px;
+}
+
+#save-el {
+    background-color: rgba(21, 216, 21, 0.719);
+    padding: 10px 50px 10px 50px;
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 4px;
+}
+
+body {
+    font-size: 17px;
+    font-family: sans-serif;
+    background: url("stock5.jpg");
+    height: 90vh;
+    text-align: center;
+}
+
+p {
+    font-weight: 600;
+}
+
+#container {
+    background-color: white;
+    width: 60%;
+    margin: auto;
+    border: 3px solid black;
+    border-radius: 10px;
+
+
+}
